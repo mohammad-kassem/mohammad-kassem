@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad Kassem</h1>
-<h3 align="center">I'm currently a student in a Full-Stack Web Development bootcamp!</h3>
+<h3 align="center">I'm a Full-Stack Web Developmer</h3>
 
-- 🔭 I’m currently working on **assignments on web development from my FSW bootcamp courses**
+- 🔭 I’m currently working on **Comptutor**
 
 - 🌱 I’m currently learning **Everything! 🤣**
 
 - 🥅 2022 Goal: To graduate with **flying colors**
 
-- ⚡ Fun fact **I enjoy video editing**
+- ⚡ Fun fact **I enjoy listening to music**
 
 
 <h3 align="left">Languages and Tools:</h3>
