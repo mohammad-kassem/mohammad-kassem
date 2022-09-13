@@ -17,7 +17,9 @@
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/></a>
 <a href="https://www.php.net"> <img src="https://img.shields.io/badge/PHP-9867C5?style=for-the-badge&logo=php&logoColor=white"/> </a>
 <a href="https://www.javascript.com"> <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black"/> </a>
+<a href="https://www.typescriptlang.org/"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> </a>
 <a href="https://en.cppreference.com/w/"> <img src="https://img.shields.io/badge/C-0769AD?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="https://go.dev/"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> </a>
 
 ### **Database Managmenet Systems**
 <a href="https://www.mysql.com"> <img src="https://img.shields.io/badge/MySQL-0769AD?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
@@ -32,6 +34,7 @@
 <a href="https://getbootstrap.com"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>
 <a href="https://reactjs.org"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </a>
 <a href="https://reactnative.dev"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </a>
+<a href="https://angular.io/"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> </a>
 <a href="https://expo.dev"> <img src="https://img.shields.io/badge/Expo-0769AD?style=for-the-badge&logo=expo&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
 
