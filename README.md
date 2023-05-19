@@ -2,13 +2,10 @@
 
 ### **I'm a Full-Stack Web Developer**
 
-- 🔭 I’m currently working on **Comptutor**
 
-- 🌱 I’m currently learning **Everything! 🤣**
 
-- 🥅 2022 Goal: start my career in **Web Development**
 
-- ⚡ Fun fact: I enjoy **Trading Card Games**
+
 
 
 ## **💻What I Know**
