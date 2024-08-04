@@ -41,6 +41,5 @@
 <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </a>
 <a href="https://aws.amazon.com/ec2/"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad-kassem&show_icons=true&theme=algolia&hide=stars,issues&locale=en" alt="mohammad-kassem" /></div>
 </p><div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-kassem&show_icons=true&theme=algolia&locale=en&layout=compact" alt="mohammad-kassem" /></div>
 
